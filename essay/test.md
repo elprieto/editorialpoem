@@ -4,7 +4,17 @@
 ![JorgeManrique](https://media.theobjective.com/app/uploads/2021/02/13091548/jorge-manrique-poeta-revelacion.jpg)  
 > Our lives are the rivers that lead to the sea, that is dying
 ---
+  
+Jorge Manrique was a Spanish poet, famous for _Couplets to his Father's Death_, it was the maximum example of cortisan liric from the XV century and one of the most important Spanish elegies.  
+Jorge Manrique was both a poet and a soldier, he fought along his father on Isabella I of Castile's side. He died after being fatally wounded  during an assault to the Garcimuñoz Castle.  
+  
+Written after his father's death (1476), _Couplets to his Father's Death_ was published in 1494, under the title _Coplas de Jorge Manrique a la muerte de su padre, el Maestre don Rodrigo_ (_Couplets of Jorge Manrique to his father's death, Master don Rodrigo_).  
+  
+It was one of the first examples that besides talking about terrenal life and eternal life, also mentioned fame and how it could give another dimension to the afterlife. Mentioning how life was being remembered by other people after death.[1^]  
+   
+The poem was written in Pie Quebrado (Broken-foot) style, a 12-line stanza having 4 triplets of 8-,8-, and 4-syllable lines and with a rhyme scheme of abcabcdefdef.[2^] 
 
+---
 ### Real Academia de la Lengüa Española
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recuerde el alma dormida,  
 abive el seso y despierte  
@@ -70,6 +80,12 @@ any past time
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;was better.  
 
 ---
+### Biography sources
+
+[1^][Biografía de Jorge Manrique](https://www.biografiasyvidas.com/biografia/m/manrique.htm)
+[2^][Biography of Jorge Manrique](https://www.britannica.com/biography/Jorge-Manrique)
+### Poem sources
+
 [Real Academia de la Lengua Española](https://www.rae.es/sites/default/files/Coplas_a_la_muerte_de_su_padre.pdf)
 
 [Universidad de Valencia](https://www.uv.es/ivorra/Literatura/Coplas.htm)
