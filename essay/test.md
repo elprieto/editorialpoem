@@ -10,9 +10,9 @@ Jorge Manrique was both a poet and a soldier, he fought along his father on Isab
   
 Written after his father's death (1476), _Couplets to his Father's Death_ was published in 1494, under the title _Coplas de Jorge Manrique a la muerte de su padre, el Maestre don Rodrigo_ (_Couplets of Jorge Manrique to his father's death, Master don Rodrigo_).  
   
-It was one of the first examples that besides talking about terrenal life and eternal life, also mentioned fame and how it could give another dimension to the afterlife. Mentioning how life was being remembered by other people after death.[1^]  
+It was one of the first examples that besides talking about terrenal life and eternal life, also mentioned fame and how it could give another dimension to the afterlife. Mentioning how life was being remembered by other people after death.[^1]  
    
-The poem was written in Pie Quebrado (Broken-foot) style, a 12-line stanza having 4 triplets of 8-,8-, and 4-syllable lines and with a rhyme scheme of abcabcdefdef.[2^] 
+The poem was written in Pie Quebrado (Broken-foot) style, a 12-line stanza having 4 triplets of 8-,8-, and 4-syllable lines and with a rhyme scheme of abcabcdefdef.[^2] 
 
 ---
 ### Real Academia de la Lengüa Española
@@ -82,8 +82,8 @@ any past time
 ---
 ### Biography sources
 
-[1^][Biografía de Jorge Manrique](https://www.biografiasyvidas.com/biografia/m/manrique.htm)
-[2^][Biography of Jorge Manrique](https://www.britannica.com/biography/Jorge-Manrique)
+[^1] [Biografía de Jorge Manrique](https://www.biografiasyvidas.com/biografia/m/manrique.htm)
+[^2] [Biography of Jorge Manrique](https://www.britannica.com/biography/Jorge-Manrique)
 ### Poem sources
 
 [Real Academia de la Lengua Española](https://www.rae.es/sites/default/files/Coplas_a_la_muerte_de_su_padre.pdf)
