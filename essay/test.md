@@ -65,25 +65,41 @@ any past time
 
 ### Own version
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aware the sleeping soul,  
-brighten the sense and wake up;  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:steelblue">Aware</span> the sleeping soul,  
+
+<span style="color:steelblue">brighten the sense</span>
+ and wake up;  
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contemplating  
+
 how life passes,  
+
 how death approaches  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;so unspeaking;  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;so <span style="color:steelblue">unspeaking;</span>
   
-when, quickly leaves the enjoyment  
-how, after remembered,  
+
+  
+<span style="color:steelblue">when, quickly leaves the enjoyment</span>
+  
+
+<span style="color:steelblue">how, after remembered,</span>  
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;it causes pain,  
-how to our judgement  
+
+<span style="color:steelblue">how to our judgement</span>  
+
 any past time  
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;was better.  
+
 
 ---
 ### Biography sources
 
  [Biografía de Jorge Manrique](https://www.biografiasyvidas.com/biografia/m/manrique.htm)  
- [Biography of Jorge Manrique](https://www.britannica.com/biography/Jorge-Manrique)
+   
+ [Biography of Jorge Manrique](https://www.britannica.com/biography/Jorge-Manrique)  
 ### Poem sources
 
 [Real Academia de la Lengua Española](https://www.rae.es/sites/default/files/Coplas_a_la_muerte_de_su_padre.pdf)
